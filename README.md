@@ -6,6 +6,7 @@
 
 Product Hunt Alpha is a product research website where users can research products also add their own products. This was built as a construct week project by Masai School Students.
 
+#### Note : It takes a while to start the backend, please refresh after few seconds after first launch while watching the demo.
 [Live Demo](https://producthuntalpha.netlify.app/)
 
 ## Features
