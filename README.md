@@ -48,15 +48,16 @@ Product Hunt Alpha is a product research website where users can research produc
  
 
 ## Screenshots
-![Screenshot (1123)](https://user-images.githubusercontent.com/39058941/107113126-e7449200-6882-11eb-9c11-1aa2458306dc.png)
- ![Screenshot (1129)](https://user-images.githubusercontent.com/39058941/107113119-e3b10b00-6882-11eb-81ea-4c4bb31c5fe4.png)
-![Screenshot (1128)](https://user-images.githubusercontent.com/39058941/107113120-e57ace80-6882-11eb-882e-0676f0707762.png)
-![Screenshot (1127)](https://user-images.githubusercontent.com/39058941/107113122-e57ace80-6882-11eb-87fe-f4e963d4b925.png)
-![Screenshot (1125)](https://user-images.githubusercontent.com/39058941/107113123-e6136500-6882-11eb-96da-c58fbcbf3b8b.png)
-![Screenshot (1126)](https://user-images.githubusercontent.com/39058941/107113124-e6abfb80-6882-11eb-97a8-356410aa77e8.png)
-![Screenshot (1124)](https://user-images.githubusercontent.com/39058941/107113125-e6abfb80-6882-11eb-82b8-4334546cc92f.png)
-![Screenshot (1131)](https://user-images.githubusercontent.com/39058941/107113127-e7dd2880-6882-11eb-9b81-dad3855ed3b3.png)
-![Screenshot (1130)](https://user-images.githubusercontent.com/39058941/107113128-e7dd2880-6882-11eb-9b1d-80bdab681667.png)
+![home](https://user-images.githubusercontent.com/39058941/118371705-7d4b2f80-b5cb-11eb-9cfd-a5a917f759e0.png)
+![jobs](https://user-images.githubusercontent.com/39058941/118371706-7f14f300-b5cb-11eb-8031-d05e10ea6e45.png)
+![mentors 2](https://user-images.githubusercontent.com/39058941/118371707-7f14f300-b5cb-11eb-9058-b376687a2c74.png)
+![mentors](https://user-images.githubusercontent.com/39058941/118371708-7fad8980-b5cb-11eb-9e0d-75ccf5337ad4.png)
+![modal](https://user-images.githubusercontent.com/39058941/118371709-80462000-b5cb-11eb-8384-5b3e929aee54.png)
+![post](https://user-images.githubusercontent.com/39058941/118371710-80462000-b5cb-11eb-82d8-c2a92870f562.png)
+![ask](https://user-images.githubusercontent.com/39058941/118371711-80deb680-b5cb-11eb-875a-6a462ce7398e.png)
+![discussion](https://user-images.githubusercontent.com/39058941/118371712-80deb680-b5cb-11eb-9a0c-6492bc520864.png)
+![founders](https://user-images.githubusercontent.com/39058941/118371713-81774d00-b5cb-11eb-873a-9e1b3c3fa7d9.png)
+
 
  
  
