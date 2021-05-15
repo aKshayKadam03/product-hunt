@@ -14,6 +14,11 @@ Product Hunt Alpha is a product research website where users can research produc
 * Raise a discussion and comment under it.
 * Book an appointment with your favourite product mentor.
 
+
+## Known Issues
+ * Not responsive for tablets and phones.
+ * Discussion page is not fully functional yet.
+
 ## Credits
 * Images -  [Product Hunt](https://www.producthunt.com/)
 * Content - [Product Hunt](https://www.producthunt.com/)
